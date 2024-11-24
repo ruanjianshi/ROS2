@@ -1,0 +1,8 @@
+string name
+uint32 money
+---
+bool success
+uint32 money
+
+
+#---为分割线，reqeust在前，response在后

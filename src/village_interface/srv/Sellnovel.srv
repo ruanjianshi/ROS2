@@ -1,0 +1,6 @@
+uint32 money
+---
+string[] novels
+
+
+#---为分割线，reqeust在前，response在后
